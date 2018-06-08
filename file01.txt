@@ -1,2 +1,4 @@
 This file was created from LCM 
 It is used to test Git Flow / GitKraken ...
+
+This line was added from  MyFeature
